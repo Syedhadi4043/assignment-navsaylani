@@ -1,0 +1,47 @@
+nav{
+    background-color: white;
+    padding: 0%;
+    box-shadow: 0px 1px 1px lightgrey ;
+}
+image{
+    padding: 50px;
+    cursor: pointer;
+    display: inline;
+}
+p{
+    text-align: center;
+
+    display:  inline-block;
+    cursor: pointer;
+    margin-inline-end: 20px;
+    font-size: 20px;
+    text-align: center;
+vertical-align: top;
+padding: 5px ;
+margin: 10px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p:hover{
+    text-decoration: underline;
+    color: lightgreen;
+}
+button{
+    border-radius: 3px;
+    color: white;
+    background-color: lightgreen;
+    border: none;
+    vertical-align: top;
+    margin-top: 20px;
+    padding: 6px 20px;
+}
+img{cursor: pointer;
+}
+
+button:hover{transition:1s;
+    scale: 1.1;
+
+}
+.sponsor{
+    margin-right: 15px;
+}
